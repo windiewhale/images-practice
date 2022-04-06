@@ -1,0 +1,60 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+outline: none;
+box-sizing: border-box;
+background: transparent;
+font-family: inherit;
+}
+a{
+text-decoration: none;
+}
+a img {
+border: none;
+}
+
+button,
+a {
+cursor: pointer;
+color: inherit;
+}
+
+textarea {
+resize: none;
+}
+
+button,
+textarea,
+select {
+appearance: none !important;
+border-radius: 0;
+}
+
+/* --- end of css reset --- */
+
+.swiper {
+    width: 100%;
+    height: 100vh;
+}
+ 
+.swiper-slide h2{
+    position: absolute;
+    top:0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    background: #472D9E;
+    background: -webkit-radial-gradient(center, #472D9E, #80acbc00);
+    background: -moz-radial-gradient(center, #472D9E, #80acbc00);
+    background: radial-gradient(ellipse at center, #472D9E 20%, #80acbc00 75%);
+    color: white;
+    font-family: 'Rock 3D', cursive;
+
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}

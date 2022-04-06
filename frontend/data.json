@@ -1,0 +1,46 @@
+[
+    {
+        "filename": "chess.jpg", 
+        "title": "Plays chess"
+    },
+    {
+        "filename": "cool.jpg", 
+        "title": "Sunglasses"
+    },
+    {
+        "filename": "cozy.jpg", 
+        "title": "Couch potatoes"
+    },
+    {
+        "filename": "jump.jpg", 
+        "title": "Jumper"
+    },
+    {
+        "filename": "killer.jpg", 
+        "title": "Fighter"
+    },
+    {
+        "filename": "knit.jpg", 
+        "title": "Yarn spagetti"
+    },
+    {
+        "filename": "laser.jpg", 
+        "title": "Laser eye"
+    },
+    {
+        "filename": "ninja.jpg", 
+        "title": "Ninja"
+    },
+    {
+        "filename": "office.jpg", 
+        "title": "Officer"
+    },
+    {
+        "filename": "shelf.jpg", 
+        "title": "Bookshelf"
+    },
+    {
+        "filename": "yoga.jpg", 
+        "title": "Yoga"
+    }
+]

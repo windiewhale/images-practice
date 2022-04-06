@@ -19,6 +19,7 @@ app.get("/image-list", (req, res) => {
 })
 
 app.use("/pub", express.static(`${feFolder}/public`));
+app.use("/dist", express.static(`${feFolder}/dist`));
 
 app.listen(port, () => {
     console.log(`http://127.0.0.1:${port}`);
